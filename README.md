@@ -1,0 +1,4 @@
+- 👋 Hi, I’m hakeem abushqara
+- 🌱 I’m a third year computer student at University of Haifa
+- technical skills:  java, C++, python, C#, C.
+- industrial knowledge: Data structures, Algorithms, Object-oriented-programming.
