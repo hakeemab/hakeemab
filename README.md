@@ -21,7 +21,8 @@ Developed an information system for HMO using Java, JavaFX, SQL and maven framew
 
 ### Project 2: survival of the fittest game
 
-designed a simple survival game using unity and C++. Survival of the Fittest is a strategy survival game where the objective is to survive as many rounds as possible. Each round is progressively harder than the previous one, with different types of zombies spawning with varying strengths and play styles.
+designed a simple survival game using unity and C++. Survival of the Fittest is a strategy survival game where the objective is to survive as many rounds as possible. Each round is progressively harder than the previous one, with different types of zombies spawning with varying strengths and play styles. 
+[project github link](https://github.com/hakeemab/survival-of-the-fittest-game)
 
 ## Contact
 
