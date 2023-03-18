@@ -17,7 +17,7 @@ I am a dedicated computer science student currently pursuing my studies at the U
 ### Project 1: Health Maintenance Organization (HMO) Management System
 
 Developed an information system for HMO using Java, JavaFX, SQL and maven framework. Implemented features such as user authentication, reserving medical appointments, managing partial medical information, featuring scheduling, COVID-19 test and vaccination management, and report generation for healthcare facility management.
-[Link:](https://github.com/KhaledSger/SoftwareEngineering)
+[project github link](https://github.com/KhaledSger/SoftwareEngineering)
 
 ### Project 2: survival of the fittest game
 
@@ -25,4 +25,4 @@ designed a simple survival game using unity and C++. Survival of the Fittest is 
 
 ## Contact
 
-Feel free to contact me via email at [Email:](hakeemabushqara7@gmail.com). I am open to opportunities for collaboration and look forward to hearing from you.
+Feel free to contact me via email at [hakeemabushqara7@gmail.com](hakeemabushqara7@gmail.com). I am open to opportunities for collaboration and look forward to hearing from you.
