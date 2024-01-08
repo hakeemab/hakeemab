@@ -1,6 +1,6 @@
 # About Me
 
-I am a dedicated computer science student currently pursuing my studies at the University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
+I am a dedicated computer science student currently pursuing my studies at University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
 
 ## Education
 
@@ -9,8 +9,8 @@ I am a dedicated computer science student currently pursuing my studies at the U
 ## Skills
 
 - Proficient in programming languages such as Java, Python, C++ and C.
-- Familiar with data structures and algorithms
-- Familiar with software engineering principles and methodologies
+- Familiar with data structures, algorithms, machine learning and Deep learning.
+- Familiar with software engineering principles and methodologies.
 
 ## Projects
 
