@@ -1,6 +1,6 @@
 # About Me
 
-I am a dedicated computer science student currently pursuing my studies at University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
+I am a computer science graduate - University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
 
 ## Education
 
