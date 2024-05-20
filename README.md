@@ -1,10 +1,10 @@
 # About Me
 
-I am a computer science graduate with a GPA of 84 - University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
+I am a computer science graduate - University of Haifa. I have a passion for technology and enjoy solving complex problems through programming.
 
 ## Education
 
-- Bachelor of Science in Computer Science, University of Haifa.
+- Bachelor of Science in Computer Science, University of Haifa - GPA 84.
 
 ## Skills
 
