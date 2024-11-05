@@ -26,7 +26,7 @@ designed a simple survival game using unity and C++. Survival of the Fittest is 
 
 ### Project 3: Weather prediction project - deep learning 
 
-created a many-to-one bidirectional LSTM model (RNN) as these types of models are suited for time-series forecasting tasks such as weather prediction, where given a sequence of days, we predict the mean_temp and sunshine values for the next day.  
+created a many-to-one bidirectional LSTM model (Recurrent neural network) as these types of models are suited for time-series forecasting tasks such as weather prediction, where given a sequence of days, we predict the mean_temp and sunshine values for the next day.  
 Libraries used in this project includes: Pytorch and tensorFlow.
 [project github link](https://github.com/hakeemab/Weather-prediction-project-)
 
